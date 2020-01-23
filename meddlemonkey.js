@@ -2,10 +2,12 @@
 // @name        OpenSubtitles direct download links
 // @namespace   github.com/darkred
 // @version     1.1
-// @date        2020-01-22
+// @date        2020-01-23
 // @author      github.com/kiriles90
 // @updateURL   https://raw.githubusercontent.com/kiriles90/Opensubtitles-direct-download-links/master/meddlemonkey.js
 // @downloadURL https://raw.githubusercontent.com/kiriles90/Opensubtitles-direct-download-links/master/meddlemonkey.js
+// @include     http://www.opensubtitles.org/*/search/*
+// @include     http://www.opensubtitles.org/*/subtitles/*
 // @include     https://www.opensubtitles.org/*/search/*
 // @include     https://www.opensubtitles.org/*/subtitles/*
 // @run-at      document-idle
